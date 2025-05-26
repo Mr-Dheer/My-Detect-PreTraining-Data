@@ -1,0 +1,92 @@
+[
+  {
+    "entry_id": "A2O6HZ2B9YSRXR",
+    "sample": "",
+    "ppl": 59.257225036621094,
+    "ppl_ratio_ref": 1.3208298599100805,
+    "slide_ppl": 72.3714370727539,
+    "lowercase_ratio": 1.0,
+    "zlib_ratio": 0.6518518518518519
+  },
+  {
+    "entry_id": "A1Z16630QMH8Q6",
+    "sample": "",
+    "ppl": 31.618026733398438,
+    "ppl_ratio_ref": 1.3193348820195872,
+    "slide_ppl": 39.398536682128906,
+    "lowercase_ratio": 0.8029950926912945,
+    "zlib_ratio": 0.6039603960396039
+  },
+  {
+    "entry_id": "A3RSVR9ELA3U2E",
+    "sample": " I wish I could get it. Thanks.\nI would love to have this site too.",
+    "ppl": 34.92097854614258,
+    "ppl_ratio_ref": 1.3153069118907124,
+    "slide_ppl": Infinity,
+    "lowercase_ratio": 0.9403865021832855,
+    "zlib_ratio": 0.7732558139534884
+  },
+  {
+    "entry_id": "AF26G326ZZ2OY",
+    "sample": "",
+    "ppl": 33.064178466796875,
+    "ppl_ratio_ref": 1.3133042118474836,
+    "slide_ppl": 36.80891036987305,
+    "lowercase_ratio": 0.8962073313924898,
+    "zlib_ratio": 0.673469387755102
+  },
+  {
+    "entry_id": "A3PQQVU8NHR7PM",
+    "sample": "",
+    "ppl": 24.525707244873047,
+    "ppl_ratio_ref": 1.2891093033675154,
+    "slide_ppl": 27.483158111572266,
+    "lowercase_ratio": 0.9141369698236425,
+    "zlib_ratio": 0.5261918775750442
+  },
+  {
+    "entry_id": "A3A3RQ7Z8TBTDS",
+    "sample": "",
+    "ppl": 53.91310501098633,
+    "ppl_ratio_ref": 1.272691473334528,
+    "slide_ppl": 64.5706787109375,
+    "lowercase_ratio": 0.7632515961428811,
+    "zlib_ratio": 0.6291913214990138
+  },
+  {
+    "entry_id": "AIF6EU76IRWZF",
+    "sample": "  It is a very fun magazine.",
+    "ppl": 22.093242645263672,
+    "ppl_ratio_ref": 1.2709466269703245,
+    "slide_ppl": 30.078798294067383,
+    "lowercase_ratio": 0.8218145982636014,
+    "zlib_ratio": 0.6582278481012658
+  },
+  {
+    "entry_id": "A9DZTPUER694B",
+    "sample": "",
+    "ppl": 42.17133712768555,
+    "ppl_ratio_ref": 1.253794626958841,
+    "slide_ppl": 48.925716400146484,
+    "lowercase_ratio": 0.8868514901842339,
+    "zlib_ratio": 0.6691729323308271
+  },
+  {
+    "entry_id": "A9DZTPUER694B",
+    "sample": " Thanks!",
+    "ppl": 42.19108581542969,
+    "ppl_ratio_ref": 1.251350190896373,
+    "slide_ppl": 48.925716400146484,
+    "lowercase_ratio": 0.884123352032119,
+    "zlib_ratio": 0.6715328467153284
+  },
+  {
+    "entry_id": "A3PQQVU8NHR7PM",
+    "sample": " And I'm not complaining. Just thankful I've got the chance to catch up.",
+    "ppl": 23.628652572631836,
+    "ppl_ratio_ref": 1.2490172531321417,
+    "slide_ppl": 22.54248046875,
+    "lowercase_ratio": 0.9337392982351147,
+    "zlib_ratio": 0.5251270468661773
+  }
+]
